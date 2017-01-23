@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "921712814010",
+    "firebase_url": "https://notebook-74c42.firebaseio.com",
+    "project_id": "notebook-74c42",
+    "storage_bucket": "notebook-74c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921712814010:android:40ae30f4b4c95caa",
+        "android_client_info": {
+          "package_name": "com.example.amr.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921712814010-al3pqgvtilr10smpe1f3kjlt8nphq6rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASPPgMpTyKdZbxMdgriL4x3hOhqTM7vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
