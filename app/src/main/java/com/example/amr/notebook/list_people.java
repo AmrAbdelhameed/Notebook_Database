@@ -148,13 +148,6 @@ public class list_people extends AppCompatActivity {
             AlertDialog d = builder.create();
             d.setTitle("Are you sure");
             d.show();
-//            SharedPreferences sharedPreferences = getSharedPreferences("data", Context.MODE_PRIVATE);
-//            SharedPreferences.Editor E = sharedPreferences.edit();
-//            // E.putString("N", String.valueOf(findViewById(R.id.editText)));
-//            E.putString("nemail","");
-//            E.putString("npass","");
-//            E.apply();
-
             return true;
         }
         if (a == R.id.item3) {
@@ -183,12 +176,6 @@ public class list_people extends AppCompatActivity {
             AlertDialog d = builder.create();
             d.setTitle("Are you sure");
             d.show();
-//            SharedPreferences sharedPreferences = getSharedPreferences("data", Context.MODE_PRIVATE);
-//            SharedPreferences.Editor E = sharedPreferences.edit();
-//            // E.putString("N", String.valueOf(findViewById(R.id.editText)));
-//            E.putString("nemail","");
-//            E.putString("npass","");
-//            E.apply();
             return true;
         }
         return super.onOptionsItemSelected(item);
